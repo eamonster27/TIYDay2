@@ -1,0 +1,17 @@
+Coding for Coders
+
+Navigation Links : 
+- Text : "Home",                  href: "index.html" 
+- Text : "Programming Languages", href: "languags.html" 
+- Text : "Contact Me",            href: "contactme.html" 
+
+Contact Me
+
+I love to hear about everyone's experiences with coding. If you would like to work together, or just talk shop, let me know!
+
+** Form goes here **
+    
+Footer Navigation Links : 
+- Text : "Home",                  href: "index.html" 
+- Text : "Programming Languages", href: "languags.html" 
+- Text : "Contact Me",            href: "contactme.html" 

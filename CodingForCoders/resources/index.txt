@@ -1,0 +1,33 @@
+Coding for Coders
+
+Navigation Links : 
+- Text : "Home",                  href: "index.html" 
+- Text : "Programming Languages", href: "languags.html" 
+- Text : "Contact Me",            href: "contactme.html" 
+
+Welcome to my super awesome website about all things coding. I like to make things tick with text.
+
+Most Recent Blog Posts
+
+Rust is on the Rise
+Marty
+02/24/2018
+
+Rust is a systems programming language that runs super fast, thats under no dispute. It can help to prevents segfaults and guarantees thread safety and is just generally fun to write. In this article... 
+Read More
+
+rust, emerging tech
+
+Wrangling your Workflow
+Marty
+01/07/2018
+
+Doesn't matter how talented and intelligent your team may be, different projects might have different requirements. We need to get...
+Read More
+
+workflow, process, teamwork
+    
+Footer Navigation Links : 
+- Text : "Home",                  href: "index.html" 
+- Text : "Programming Languages", href: "languags.html" 
+- Text : "Contact Me",            href: "contactme.html" 

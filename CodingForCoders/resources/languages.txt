@@ -1,0 +1,38 @@
+Coding for Coders
+
+Navigation Links :
+- Text : "Home",                  href: "index.html"
+- Text : "Programming Languages", href: "languags.html"
+- Text : "Contact Me",            href: "contactme.html"
+
+Programming Languages
+
+We have lots of programming languages to choose from. Here are some of my favorites.
+
+My Top 3 Programming Languages:
+
+Lanuguage
+Inventor
+Tools and Frameworks
+Why I like it
+
+JavaScript
+Brendan Eich
+jQuery, React, Angular, etc.
+This flexible language is everywhere!
+
+Ruby
+Yukihiro "Matz" Matsumoto
+Rails
+Ruby is fun to write and easy to look at!
+
+Java
+James Gosling
+Spring
+The language is pretty verbose, but super safe. Plus, Java runs all the businesses in the world.
+
+
+Footer Navigation Links :
+- Text : "Home",                  href: "index.html"
+- Text : "Programming Languages", href: "languags.html"
+- Text : "Contact Me",            href: "contactme.html"
